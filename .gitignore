@@ -2,3 +2,5 @@ test.py
 test.csv
 .prettierignore
 datasets/
+prepro/
+preprocessed/

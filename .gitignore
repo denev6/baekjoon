@@ -1,6 +1,5 @@
-test.py
+test.ipynb
 test.csv
 .prettierignore
 datasets/
-prepro/
 preprocessed/

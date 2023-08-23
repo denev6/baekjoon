@@ -2,6 +2,7 @@
 - [입출력과 사칙연산](https://www.acmicpc.net/step/1)  
 - [조건문](https://www.acmicpc.net/step/2)
 - [반복문](https://www.acmicpc.net/step/3)
+- [1차원 배열](https://www.acmicpc.net/step/4)
 
 ---
 

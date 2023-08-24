@@ -19,7 +19,7 @@ func main() {
 	for i := 0; i < m; i++ {
 		fmt.Fscan(reader, &start, &end)
 		start -= 1
-		baskets = ReverseSlice(baskets, start, end)
+		baskets = ReversePartialSlice(baskets, start, end)
 	}
 	PrintSlice(baskets)
 }
@@ -32,20 +32,20 @@ func InitArr(n int) []int {
 	return arr
 }
 
-func ReverseSlice(intSlice []int, start, end int) []int {
+func ReversePartialSlice(intSlice []int, start, end int) []int {
 	sliced := intSlice[start:end]
-	reversed := Reverse(sliced)
+	reversed := ReverseSlice(sliced)
 	for i, j := start, 0; i < end; i, j = i+1, j+1 {
 		intSlice[i] = reversed[j]
 	}
 	return intSlice
 }
 
-func Reverse(s []int) []int {
-	for i, j := 0, len(s)-1; i < j; i, j = i+1, j-1 {
-		s[i], s[j] = s[j], s[i]
+func ReverseSlice(intSlice []int) []int {
+	for i, j := 0, len(intSlice)-1; i < j; i, j = i+1, j-1 {
+		intSlice[i], intSlice[j] = intSlice[j], intSlice[i]
 	}
-	return s
+	return intSlice
 }
 
 func PrintSlice(intSlice []int) {

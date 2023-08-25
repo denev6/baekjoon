@@ -3,6 +3,7 @@
 - [조건문](https://www.acmicpc.net/step/2)
 - [반복문](https://www.acmicpc.net/step/3)
 - [1차원 배열](https://www.acmicpc.net/step/4)
+- [문자열](https://www.acmicpc.net/step/5)
 
 ---
 

@@ -5,6 +5,8 @@
 - [1차원 배열](https://www.acmicpc.net/step/6)
 - [문자열](https://www.acmicpc.net/step/7)
 - [심화1](https://www.acmicpc.net/step/52)
+- [2차원 배열](https://www.acmicpc.net/step/2)
+- [일반 수학 1](https://www.acmicpc.net/step/8)
 
 ---
 

@@ -7,7 +7,10 @@
 - [심화1](https://www.acmicpc.net/step/52)
 - [2차원 배열](https://www.acmicpc.net/step/2)
 - [일반 수학 1](https://www.acmicpc.net/step/8)
+- [약수, 배수와 소수](https://www.acmicpc.net/step/10)
 
 ---
 
 풀이 과정이 대다수 중복되는 문제는 기록하지 않습니다.
+
+|| [Formattor - Go Playground](https://go.dev/play/)

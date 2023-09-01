@@ -8,9 +8,12 @@
 - [2차원 배열](https://www.acmicpc.net/step/2)
 - [일반 수학 1](https://www.acmicpc.net/step/8)
 - [약수, 배수와 소수](https://www.acmicpc.net/step/10)
+- [기하: 직사각형과 삼각형](https://www.acmicpc.net/step/50)
+- [시간 복잡도](https://www.acmicpc.net/step/53)
+- [브루트 포스](https://www.acmicpc.net/step/22)
 
 ---
 
-풀이 과정이 대다수 중복되는 문제는 기록하지 않습니다.
+풀이 과정이 이전 문제 또는 유형과 유사하다고 판단되는 문제는 기록하지 않습니다.  
 
 || [Formattor - Go Playground](https://go.dev/play/)

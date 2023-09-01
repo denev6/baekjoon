@@ -11,5 +11,6 @@ var writer = bufio.NewWriter(os.Stdout)
 
 func main() {
 	defer writer.Flush()
-	// fmt.Fscan(reader, &input)
+	// fmt.Fscan(reader, &n)
+	// fmt.Fprint(writer, "")
 }

@@ -12,6 +12,8 @@
 - [시간 복잡도](https://www.acmicpc.net/step/53)
 - [브루트 포스](https://www.acmicpc.net/step/22)
 - [정렬](https://www.acmicpc.net/step/9)
+- [집합과 맵](https://www.acmicpc.net/step/49)
+- [약수, 배수와 소수 2](https://www.acmicpc.net/step/18)
 
 ---
 

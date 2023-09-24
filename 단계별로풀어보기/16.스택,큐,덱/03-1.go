@@ -1,3 +1,5 @@
+// 4ms, 928KB
+
 package main
 
 import (
@@ -39,25 +41,3 @@ func IsVPS(ps string) bool {
 		return false
 	}
 }
-
-/*
-
-func IsVPS(ps string) bool {
-	stack := 0
-	for _, char := range ps {
-		if char == '(' {
-			stack += 1
-		} else {
-			stack -= 1
-			if stack == -1 { break }
-		}
-	}
-	
-	if stack == 0 {
-		return true
-	} else {
-		return false
-	}
-}
-
-*/

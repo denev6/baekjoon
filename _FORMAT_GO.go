@@ -17,8 +17,14 @@ func main() {
 }
 
 func ReadLine() {
-	sc.Scan()
-	return sc.Text()
+	str, _ := reader.ReadString('\n')
+	return strings.TrimRight(str, "\n")
+}
+
+func ReadValues() []string {
+	str, _ := reader.ReadString('\n')
+	str = strings.TrimSpace(str)
+	return strings.Split(str, " ")
 }
 
 /*

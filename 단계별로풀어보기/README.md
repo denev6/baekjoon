@@ -1,20 +1,18 @@
-# 문제 보기
-- [입출력과 사칙연산](https://www.acmicpc.net/step/1)  
-- [조건문](https://www.acmicpc.net/step/4)
-- [반복문](https://www.acmicpc.net/step/3)
-- [1차원 배열](https://www.acmicpc.net/step/6)
-- [문자열](https://www.acmicpc.net/step/7)
-- [심화1](https://www.acmicpc.net/step/52)
-- [2차원 배열](https://www.acmicpc.net/step/2)
-- [일반 수학 1](https://www.acmicpc.net/step/8)
-- [약수, 배수와 소수](https://www.acmicpc.net/step/10)
-- [기하: 직사각형과 삼각형](https://www.acmicpc.net/step/50)
-- [시간 복잡도](https://www.acmicpc.net/step/53)
-- [브루트 포스](https://www.acmicpc.net/step/22)
-- [정렬](https://www.acmicpc.net/step/9)
-- [집합과 맵](https://www.acmicpc.net/step/49)
-- [약수, 배수와 소수 2](https://www.acmicpc.net/step/18)
-- [스텍, 큐, 덱](https://www.acmicpc.net/step/11)
+- 백준 문제: [acmicpc.net/step](https://www.acmicpc.net/step)
+- 사용한 언어: `Go`, `Python`
+- __문제 풀이 완료: 23.09.29__
+
+---
+
+(다른 언어로 풀었지만) 반례 못 찾은 코드: 
+- [14/08.py](/단계별로풀어보기/14.집합과맵/08[???].py)
+- [16/11.go](/단계별로풀어보기/16.스택,큐,덱/11[???].go)
+
+문제 원본: 
+- [14/08: 11478](https://www.acmicpc.net/problem/11478)
+- [16/11: 24511](https://www.acmicpc.net/problem/24511)
+
+반례 찾으시면 `music5038@gmail.com` 알려주십시오...
 
 ---
 

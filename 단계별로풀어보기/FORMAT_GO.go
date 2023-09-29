@@ -4,18 +4,31 @@ import (
 	"bufio"
 	"fmt"
 	"os"
+	"strings"
 )
 
 var sc = bufio.NewScanner(os.Stdin)
 var reader = bufio.NewReader(os.Stdin)
 var writer = bufio.NewWriter(os.Stdout)
+var b strings.Builder
 
 func main() {
 
 }
 
-// defer writer.Flush()
-// fmt.Fscan(reader, &n)
-// fmt.Fprint(writer, "")
-// sc.Scan()       
-// sentence := sc.Text()
+func ReadLine() {
+	sc.Scan()
+	return sc.Text()
+}
+
+/*
+defer writer.Flush()
+fmt.Fprint(writer, "")
+
+fmt.Fscan(reader, &n)
+
+sc.Scan()       
+input := sc.Text()
+
+b.WriteString()
+*/

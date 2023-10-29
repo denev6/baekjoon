@@ -16,7 +16,7 @@ func main() {
 
 }
 
-func ReadLine() {
+func ReadLine() string {
 	str, _ := reader.ReadString('\n')
 	return strings.TrimRight(str, "\n")
 }
